@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactHooksBlogSite.Web", "ReactHooksBlogSite.Web\ReactHooksBlogSite.Web.csproj", "{32C9D77F-A9AC-4213-AA4A-D5CF2358EBE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactHooksBlogSite.Data", "ReactHooksBlogSite.Data\ReactHooksBlogSite.Data.csproj", "{4EAF29C2-0CFF-44AC-AC21-7262A39A3CA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32C9D77F-A9AC-4213-AA4A-D5CF2358EBE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C9D77F-A9AC-4213-AA4A-D5CF2358EBE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C9D77F-A9AC-4213-AA4A-D5CF2358EBE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C9D77F-A9AC-4213-AA4A-D5CF2358EBE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EAF29C2-0CFF-44AC-AC21-7262A39A3CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EAF29C2-0CFF-44AC-AC21-7262A39A3CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EAF29C2-0CFF-44AC-AC21-7262A39A3CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EAF29C2-0CFF-44AC-AC21-7262A39A3CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E835D20-779D-4F6C-93E0-051BCC6F87C9}
+	EndGlobalSection
+EndGlobal
